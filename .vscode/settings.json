@@ -1,0 +1,9 @@
+{
+    "phpstan.enabled": true,
+    "phpstan.binPath": "vendor/bin/phpstan",
+    "phpstan.configFile": "phpstan.neon",
+    "phpstan.level": 7,
+    "intelephense.diagnostics.undefinedMethods": true,
+    "intelephense.diagnostics.undefinedProperties": true,
+    "intelephense.diagnostics.typeErrors": true
+}
