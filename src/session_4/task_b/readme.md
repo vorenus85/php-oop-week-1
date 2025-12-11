@@ -1,4 +1,3 @@
-
 ## (B) ÚJ TÉMA: OOP megvalósítás (Téma: Streaming platform ajánlórendszer)
 ### Építs egy mini ajánlórendszert streaming platformhoz.
 
